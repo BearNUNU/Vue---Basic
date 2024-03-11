@@ -1,15 +1,19 @@
 <template>
   <div>
-<lifeCycleVue/>
+    <!-- <lifeCycle /> -->
+    <!-- <userInterface1/> -->
+    <!-- <userInterface2/> -->
+    <userInterface3/>
   </div>
 </template>
 
 <script setup>
-import lifeCycleVue from "./components/lifeCycle.vue";
-
-
+  import lifeCycle from "./components/lifeCycle.vue";
+  import userInterface1 from "./components/userInterface1.vue";
+  import userInterface2 from "./components/userInterface2.vue";
+  import userInterface3 from "./components/userInterface3.vue"
 </script>
 
-<style lang="scss" scoped>
 
+<style>
 </style>
