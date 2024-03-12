@@ -4,7 +4,8 @@
     <!-- <userInterface1/> -->
     <!-- <userInterface2/> -->
     <!-- <userInterface3/> -->
-    <vueData1 />
+    <!-- <vueData1 /> -->
+       <vueData2 />
   </div>
 </template>
 
@@ -14,6 +15,7 @@ import userInterface1 from "./components/userInterface1.vue"
 import userInterface2 from "./components/userInterface2.vue"
 import userInterface3 from "./components/userInterface3.vue"
 import vueData1 from "./components/vueData1.vue"
+import vueData2 from "./components/vueData2.vue"
 </script>
 
 <style></style>
