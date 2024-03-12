@@ -7,7 +7,8 @@
     <!-- <vueData1 /> -->
     <!-- <vueData2 /> -->
     <!-- <vueData3 /> -->
-    <vueData4 />
+    <!-- <vueData4 /> -->
+    <vueData5 />
   </div>
 </template>
 
@@ -20,6 +21,7 @@ import vueData1 from "./components/vueData1.vue"
 import vueData2 from "./components/vueData2.vue"
 import vueData3 from "./components/vueData3.vue"
 import vueData4 from "./components/vueData4.vue"
+import vueData5 from "./components/vueData5.vue"
 </script>
 
 <style></style>
